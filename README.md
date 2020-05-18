@@ -8,7 +8,7 @@ The dataset can be acquired from https://sites.google.com/site/dilipprasad/home/
 
 ## Explanation of folders
 - [HorizonGT](https://github.com/TZorawski/TCC-HorizonDetectionWithML/tree/master/HorizonGT): contains the GT data files.
-- [Singapore-Maritime-Dataset-Frames-Ground-Truth-Generation-and-Statistics](https://github.com/TZorawski/TCC-HorizonDetectionWithML/tree/master/Singapore-Maritime-Dataset-Frames-Ground-Truth-Generation-and-Statistics): contains the code to generate the GT images.
+- [Singapore-Maritime-Dataset-Frames-Ground-Truth-Generation-and-Statistics](https://github.com/TZorawski/TCC-HorizonDetectionWithML/tree/master/Singapore-Maritime-Dataset-Frames-Ground-Truth-Generation-and-Statistics): contains the code to generate the GT images. Use Jupyter to run the code.
 - [VIS_Onboard_frames](https://github.com/TZorawski/TCC-HorizonDetectionWithML/tree/master/VIS_Onboard_frames): contains the frames extracted from the videos.
 
 ## Explanation of files
