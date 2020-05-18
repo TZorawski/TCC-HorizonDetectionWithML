@@ -1,7 +1,7 @@
 # TCC-HorizonDetectionWithML
 <Explicação do TCC>
 
-Currently this repository have generate frames from the Singapore Maritime Dataset (SMD) videos and the code to convert the corresponding ground truth files.
+Currently this repository have generated frames from the Singapore Maritime Dataset (SMD) videos and the code to convert the corresponding ground truth files.
 
 ## Dataset
 The dataset can be acquired from https://sites.google.com/site/dilipprasad/home/singapore-maritime-dataset.
